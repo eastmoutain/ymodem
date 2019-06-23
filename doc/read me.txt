@@ -1,0 +1,1 @@
+This is a demo project which function is to print a sectence via UASRT2 with baud rate at 115200 bps.
